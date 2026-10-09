@@ -12,6 +12,8 @@ builder.Services.AddSwaggerGen();
 var testPushProtectionKey = "ghp_000000000000000000000000000000000000";
 var testPushProtectionKey2 = "ghp_000000000000000000000000000000000001";
 
+var superSecretAPIKey = Guid.NewGuid().ToString("N");
+
 
 var app = builder.Build();
 
