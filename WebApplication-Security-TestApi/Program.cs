@@ -10,6 +10,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var testPushProtectionKey = "ghp_000000000000000000000000000000000000";
+var testPushProtectionKey2 = "ghp_000000000000000000000000000000000001";
+
 
 var app = builder.Build();
 
