@@ -14,6 +14,9 @@ var testPushProtectionKey2 = "ghp_000000000000000000000000000000000001";
 
 var superSecretAPIKey = Guid.NewGuid().ToString("N");
 
+var testPushProtectionKey3 = "ghp_000000000000000000000000000000000005";
+var testPushProtectionKey4 = "ghp_000000000000000000000000000000000071";
+
 
 var app = builder.Build();
 
