@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="16.1.0" />
+    <PackageReference Include="AutoMapper" Version="16.1.1" />
     <PackageReference Include="OpenTelemetry.Api" Version="1.15.3" />
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
 
