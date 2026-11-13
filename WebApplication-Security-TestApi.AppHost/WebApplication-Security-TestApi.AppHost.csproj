@@ -12,6 +12,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Aspire.Dashboard.Sdk.linux-x64" Version="13.6.5" />
+    <PackageReference Include="Aspire.Hosting" Version="13.6.5" />
     <PackageReference Include="Aspire.Hosting.AppHost" Version="9.0.0" />
     <PackageReference Include="AutoMapper" Version="16.1.1" />
     <PackageReference Include="KubernetesClient" Version="21.0.8" />
